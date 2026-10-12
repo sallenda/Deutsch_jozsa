@@ -114,8 +114,3 @@ def graficar(nombre, counts, ceros, backend_name, top=20):
 if __name__ == "__main__":
     main()
 
-# ---------------------------------------------------------------------------
-# Configuración de la cuenta (una sola vez, NO dejar la API key en este archivo):
-#
-#  
-# ---------------------------------------------------------------------------
